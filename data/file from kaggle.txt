@@ -1,0 +1,2 @@
+https://www.kaggle.com/danielwolffram/cord-19-create-dataframe
+download cord19_df for further analysis.
